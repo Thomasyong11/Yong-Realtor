@@ -40,14 +40,7 @@ const Banner = ({
 export default function Home({ propertiesForRent, propertiesForSale }) {
   return (
     <Box>
-      {/* <Head>
-        <title>Yong-Realtor</title>
-        <meta name="" content="" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <h1>SOns Of Bitches</h1> */}
       <Banner
-        purpose={"for sale"}
         purpose="RENT A HOME"
         title1="Rental Homes for"
         title2="Everyone"
